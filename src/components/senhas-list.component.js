@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import SenhaDataService from "../services/senha.service";
-
 import Senha from "./senha.component";
 
 export default class SenhasList extends Component {

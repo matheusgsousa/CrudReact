@@ -6,9 +6,11 @@ import safetykey from './img/safetykey.svg';
 import AddSenha from "./components/add-senha.component";
 import SenhasList from "./components/senhas-list.component";
 
+
 class App extends Component {
   render() {
     return (
+
       <div>
         <nav className="navbar navbar-expand navbar-light" style={{ backgroundColor: "#E5E5E5 " }}>
           <a href="/senhas" className="navbar-brand">
