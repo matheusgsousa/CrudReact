@@ -1,6 +1,7 @@
 import * as firebase from "firebase";
 import "firebase/database";
 
+
 let config = {
   apiKey: "AIzaSyDBWFIycmfHb56DxHzeY3lRY2UfpL1W8CY",
   authDomain: "safety-key.firebaseapp.com",
